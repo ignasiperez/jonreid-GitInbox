@@ -23,15 +23,6 @@
         "identifier" : "6BD8E9CD2B1E4C2C004FF17F",
         "name" : "GitInboxTests"
       }
-    },
-    {
-      "enabled" : false,
-      "parallelizable" : true,
-      "target" : {
-        "containerPath" : "container:GitInbox.xcodeproj",
-        "identifier" : "6BD8E9D72B1E4C2C004FF17F",
-        "name" : "GitInboxUITests"
-      }
     }
   ],
   "version" : 1
