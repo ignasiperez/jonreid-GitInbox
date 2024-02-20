@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct GitInboxApp: App {
+    private var isProduction: Bool {
+        NSClassFromString("XCTestCase") == nil
+    }
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            if isProduction {
+                ContentView()
+            }
         }
     }
-}
+    
+} // GitInboxApp
