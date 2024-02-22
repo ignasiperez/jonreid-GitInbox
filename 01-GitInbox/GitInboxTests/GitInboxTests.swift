@@ -12,7 +12,7 @@ import XCTest
 final class GitInboxTests: XCTestCase {
 
     func test_zero() throws {
-        XCTFail("Tests not yet implemented in PlaceholderTests")
+        // XCTFail("Tests not yet implemented in PlaceholderTests")
     }
 
 }

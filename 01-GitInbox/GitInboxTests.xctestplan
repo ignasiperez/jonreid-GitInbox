@@ -9,6 +9,7 @@
     }
   ],
   "defaultOptions" : {
+    "codeCoverage" : false,
     "targetForVariableExpansion" : {
       "containerPath" : "container:GitInbox.xcodeproj",
       "identifier" : "6BD8E9BD2B1E4C2A004FF17F",
