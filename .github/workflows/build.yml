@@ -15,6 +15,6 @@ jobs:
         xcode-version: '15.0.1'
     - name: Show current version of Xcode
       run: xcodebuild -version
-    -name: Run tests
+    - name: Run tests
       run: ./run_tests.sh
     
