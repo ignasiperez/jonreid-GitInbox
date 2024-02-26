@@ -1,10 +1,3 @@
-//
-//  GitInboxTests.swift
-//  GitInboxTests
-//
-//  Created by Ignasi Perez-Valls on 4/12/23.
-//
-
 import XCTest
 @testable import GitInbox
 
