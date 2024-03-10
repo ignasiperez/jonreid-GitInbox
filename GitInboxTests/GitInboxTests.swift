@@ -1,7 +1,7 @@
 import XCTest
 @testable import GitInbox
 
-@MainActor
+// @MainActor
 final class GitInboxTests: XCTestCase {
 
     func test_zero() throws {
